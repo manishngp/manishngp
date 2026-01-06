@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a strong fou
 ## 🔧 Technologies & Tools  
 - **Languages**: HTML, CSS, JavaScript  
 - **Frameworks & Libraries**: React, Redux
-- **Databases**: Firebase 
+- **Databases**: Firebase , mongodb
 - **Version Control**: Git, GitHub  
 
 ## 🌱 Currently Learning  
