@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a strong fou
 - **Version Control**: Git, GitHub  
 
 ## 🌱 Currently Learning  
-- MongoDB, Expressjs 
+- MongoDB, Expressjs, typescript
 - Advanced React Patterns  
 - Performance Optimization Techniques  
 
