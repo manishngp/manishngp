@@ -15,12 +15,7 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer ** with a strong fo
 
 ## 🚀 Projects  
 
-### [Expense Manager](https://github.com/manishngp/Exp-manager)  
-- Developed an intuitive expense tracking system with React.  
-- Implemented Firebase authentication for storing entries. 
-- Enabled real-time data storage and retrieval using Firestore.  
-- Designed a responsive UI with material design principles.  
-- Integrated budget analytics for insightful financial tracking.  
+
 
 ### [KCAL](https://github.com/Roonpandit/KCAL)  
 - Developed a calorie-tracking app to help users monitor their daily intake.  
