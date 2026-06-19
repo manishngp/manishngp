@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer ** with a strong fo
 
 
 
-### [KCAL](https://github.com/Roonpandit/KCAL)  
-- Developed a calorie-tracking app to help users monitor their daily intake.  
-- Implemented user authentication for personalized experiences.  
-- Integrated dynamic food logging and nutritional breakdown features.  
-- Ensured a responsive and interactive UI for seamless usage.  
 
 ## 🏆 Achievements & Certifications  
 - **Masai Speaking Marathon** – Masai School  
