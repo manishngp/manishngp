@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a **Frontend Web Developer ** with a strong fo
 - Advanced React Patterns  
 - Performance Optimization Techniques  
 
-## 🚀 Projects  
 
 
 
