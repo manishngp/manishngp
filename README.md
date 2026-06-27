@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Frontend Web Developer ** with a strong foundation in modern web technologies and a passion for creating user-friendly interfaces.  
 
+
 ## 🔧 Technologies & Tools  
 - **Languages**: HTML, CSS, JavaScript, Typescript  
 - **Frameworks & Libraries**: React, Redux
